@@ -12,7 +12,7 @@
 	
  **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<picture><img src="https://tenor.com/es-US/view/rainbow-swirls-relaxing-spiral-colors-gif-11458702" alt="Colorful swirling gif"></picture>
 
 <br>
 
