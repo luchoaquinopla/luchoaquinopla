@@ -12,7 +12,8 @@
 	
  **About me**
 
-<img src="https://media.tenor.com/XwKX7v0HwrgAAAAC/rainbow-swirls.gif" alt="Colorful swirling gif">
+<img src="https://media.tenor.com/XwKX7v0HwrgAAAAC/rainbow-swirls.gif" alt="Colorful swirling gif" style="width: 100%; height: auto;">
+
 <br>
 
 <br><br>
