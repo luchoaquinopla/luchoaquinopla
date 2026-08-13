@@ -8,4 +8,4 @@
 
 📫 You can reach me at: **luchoaquinopla@gmail.com**
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=luchoaquinopla&theme=gruvbox-duo)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=luchoaquinopla&theme=dark)](https://git.io/streak-stats)
